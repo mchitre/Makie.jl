@@ -5,5 +5,5 @@ Camera:
   projection: Float32[1.0 0.0 0.0 0.0; 0.0 1.0 0.0 0.0; 0.0 0.0 1.0 0.0; 0.0 0.0 0.0 1.0]
   projectionview: Float32[1.0 0.0 0.0 0.0; 0.0 1.0 0.0 0.0; 0.0 0.0 1.0 0.0; 0.0 0.0 0.0 1.0]
   resolution: Float32[600.0, 450.0]
-  lookat: Float32[0.0, 0.0, 0.0]
   eyeposition: Float32[1.0, 1.0, 1.0]
+  view direction: Float32[0.0, 0.0, -1.0]
